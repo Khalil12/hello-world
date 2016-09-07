@@ -1,5 +1,4 @@
 # hello-world
 Just another repository
 
-hi guys,
-what the heck is this thing?
+hi guys, this should be fun!
